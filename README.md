@@ -1,4 +1,5 @@
 # AI-Resume-Critiquer
+link : https://ai-resume-critiquer-morenadev.streamlit.app/
 <img width="914" height="425" alt="image" src="https://github.com/user-attachments/assets/d3d02b31-072c-4c65-915f-785dde2713d0" />
 
 A modern, interactive AI-powered app that reviews and improves resumes. Built with **Streamlit**, **LangChain**, and **Groq’s LLaMA 3**, featuring a 3D animated agent via **Spline** for a more engaging user experience.
