@@ -91,7 +91,7 @@ You can deploy it to:
 
 ### 📃 License
 
-MIT License
+MIT License[LICENSE]
 © 2025 MorenaDev
 
 ---
