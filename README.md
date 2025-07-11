@@ -80,12 +80,6 @@ You can deploy it to:
 
 ---
 
-### 📸 Screenshot
-
-> *Add screenshot or demo GIF here when available.*
-
----
-
 ### 🧪 Coming Features
 
 * 🌍 Language selector for multilingual feedback
